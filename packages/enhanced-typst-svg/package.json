@@ -20,7 +20,7 @@
   },
   "peerDependencies": {},
   "devDependencies": {
-    "esbuild": "0.17.19"
+    "esbuild": "0.25.0"
   },
   "scripts": {
     "build": "npx tsc",
