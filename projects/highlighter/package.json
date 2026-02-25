@@ -33,7 +33,7 @@
   "devDependencies": {
     "@myriaddreamin/typst.ts": "*",
     "@myriaddreamin/typst-ts-parser": "*",
-    "vite": "^4.3.9",
+    "vite": "^7.3.1",
     "vitest": "^0.32.2"
   },
   "scripts": {
